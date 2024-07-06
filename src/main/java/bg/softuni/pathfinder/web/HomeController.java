@@ -8,7 +8,10 @@ import java.util.Random;
 
 /**
  * Comments
+ * new comment in master branch
  */
+
+//test git conflicts
 
 @Controller
 public class HomeController {
