@@ -8,7 +8,7 @@ import java.util.Random;
 
 /**
  * Comments
- * new comment
+ * new comment in master branch
  */
 
 //test git conflicts
