@@ -8,9 +8,10 @@ import java.util.Random;
 
 /**
  * Comments
- *
  * new comment
  */
+
+//test git conflicts
 
 @Controller
 public class HomeController {
